@@ -1,0 +1,10 @@
+Google Cloud Storage keeps files in buckets.
+A VM is a virtual computer running in the cloud.
+Python can read a file from a bucket and process it.
+Short line.
+Cloud computing lets you rent computers by the hour instead of buying them.
+Big data means data too large for one machine to handle easily.
+Bucket names must be globally unique across all of Google Cloud.
+Virtual machines can be stopped when you are done to save credits.
+Hello GCP!
+Storage and compute are separate services that work really well together :)

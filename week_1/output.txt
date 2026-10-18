@@ -1,0 +1,3 @@
+Max length: 75
+Cloud computing lets you rent computers by the hour instead of buying them.
+Storage and compute are separate services that work really well together :)
