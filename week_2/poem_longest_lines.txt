@@ -1,0 +1,6 @@
+Source file: poem.txt
+Maximum line length: 41
+Number of longest lines: 2
+
+Smoke curls up from every kitchen chimney
+Children run along the dusty winding road
