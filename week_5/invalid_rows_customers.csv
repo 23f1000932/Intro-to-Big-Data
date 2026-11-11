@@ -1,0 +1,6 @@
+customer_id,customer_name,city,status,invalid_reason
+,Customer_X01,Kochi,active,missing customer_id
+c001,Customer_001,TRIVANDRUM,active,duplicate row
+c002,Customer_002,Chennai,active,duplicate row
+c998,Customer_X03,Trivandrum,,missing status
+c999,Customer_X02,,active,missing city

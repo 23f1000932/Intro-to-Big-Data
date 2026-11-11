@@ -1,0 +1,7 @@
+transaction_id,customer_id,transaction_date,transaction_amount,payment_mode,invalid_reason
+,c001,2025-02-10,5000,upi,missing transaction_id
+t0001,c104,2025-01-22,2291,wallet,duplicate row
+t0002,c137,2025-01-04,9897,wallet,duplicate row
+tX01,,2025-02-12,4000,card,missing customer_id
+tX02,c050,2025-02-15,-300,wallet,amount <= 0
+tX03,c020,2025/02/30,2000,cash,invalid/malformed date

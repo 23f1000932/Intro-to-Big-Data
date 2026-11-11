@@ -1,0 +1,4 @@
+customer_id,customer_name,city,total_amount,avg_amount,num_transactions
+c111,Customer_111,Coimbatore,40066.0,6677.67,6
+c070,Customer_070,Chennai,31927.0,7981.75,4
+c068,Customer_068,Kochi,29998.0,5999.6,5
